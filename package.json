@@ -61,7 +61,7 @@
     "http-server": "^0.12.0",
     "lodash": "^4.17.11",
     "microbundle": "0.11.0",
-    "mocha": "^6.2.2",
+    "mocha": "^11.7.1",
     "puppeteer": "^2.0.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
