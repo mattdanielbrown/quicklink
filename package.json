@@ -52,7 +52,7 @@
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.5",
     "@babel/preset-react": "^7.9.4",
-    "bundlesize": "^0.18.0",
+    "bundlesize": "^0.18.2",
     "chai": "^4.2.0",
     "conventional-changelog-cli": "^2.0.11",
     "cross-var": "^1.1.0",
